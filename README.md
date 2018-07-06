@@ -1,6 +1,12 @@
 # TreasureHunt-AI
 
-## AI Algorithm
+## Game
+### File
+### Description
+
+## AI
+### File
+### Algorithm
 
 In our design, we build our global map. Everything in the view that we had would be added into our global map. Every vertex has its attitudes including the "searchValue" which means the value of visiting this vertex based on our special value algorithm. Our algorithm will calculate the search value according to the distance between vertex and agent, the distance between the vertex and existed key, axe, door, tree and stone. So every existed key, axe, door, tree and stone will influence the search value of other vertexes in global map. <br> <br>
  
